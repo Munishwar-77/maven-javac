@@ -1,0 +1,1 @@
+# Maven Java Lab Project\n\nA tiny Java project for Jenkins Maven build and test practice.\n\nRun: `mvn clean install`\n
